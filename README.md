@@ -4,7 +4,7 @@ Use Discord's OAuth2 effortlessly! Turns the auth code to a access token and the
 ### Useful Links
 Discord Server: https://discord.gg/DJ9xbbZAP5
 
-Documentation is coming soon, don't worry.
+Documentation: https://discord-oauth2py.readthedocs.io/en/latest/
 
 ## Quickstart
 ### Installing
